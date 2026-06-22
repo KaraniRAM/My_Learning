@@ -1,0 +1,33 @@
+class Solution(object):
+    def intersection(self, nums1, nums2):
+        return list(set(nums1)&set(nums2))   
+
+class Solution(object):
+    def intersection(self, nums1, nums2):
+        g=[];k=sorted(nums1);h=sorted(nums2)
+        i=j=0
+        while i <len(nums1) and j < len(nums2):
+            if k[i]==h[j] and k[i]not in g :
+                g.append(k[i]);i+=1;j+=1
+            elif k[i]<h[j]:
+                i+=1
+            else:
+                j+=1 
+        return g 
+
+class Solution(object):
+    def intersection(self, nums1, nums2):
+        g=[]
+        for i in nums1:
+           if i  in nums2 and i not in g:
+                    g.append(i)
+        return (g)        
+
+
+class Solution(object):
+    def intersection(self, nums1, nums2):
+        g=set()
+        for i in nums1:
+           if i  in nums2 :
+                    g.add(i)
+        return (list(g))        
