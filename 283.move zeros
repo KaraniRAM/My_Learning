@@ -1,0 +1,41 @@
+1. in c
+void moveZeroes(int* nums, int numsSize) {
+    
+    int i,n=numsSize,c=0;
+    int temp;
+    for(i=0;i<n;i++){
+        if (nums[i]!=0)
+            nums[c++]=nums[i];
+    }
+    while(c<n){
+        nums[c++]=0;
+    }    
+      
+    }
+2.in python
+method 1
+class Solution:
+    def moveZeroes(self, nums: List[int]) -> None:
+        c=0
+        for i in range (len(nums)):
+            if nums[i]!=0:
+                nums[c]=nums[i]
+                c+=1
+        for i in range (c,len(nums)):
+            nums[i]=(0)
+
+method 2
+class Solution(object):
+    def moveZeroes(self, nums):
+        n=0
+        for i in range (len(nums)):
+            if nums[i]!=0:
+                nums[n]=nums[i]
+                n+=1
+    
+        while n<len(nums):
+                nums[n]=0
+                n+=1
+        return nums
+        
+    
