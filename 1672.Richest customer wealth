@@ -1,0 +1,6 @@
+class Solution(object):
+    def maximumWealth(self, accounts):
+        g=[]
+        for i in range(len(accounts)):
+                g.append(sum(accounts[i]))
+        return max(g)
