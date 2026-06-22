@@ -1,0 +1,20 @@
+1.method 1
+class Solution(object):
+    def addStrings(self, num1, num2):
+        g=int(num1)
+        k=int(num2)
+        s=g+k
+        return str(s)
+
+2.method 2
+class Solution(object):
+    def addStrings(self, num1, num2):
+        g=k=0
+        for i in range(len(num1)):
+            a=int(num1[i])
+            k=(k*10)+a
+        for i in range(len(num2)):
+            a=int(num2[i])
+            g=(g*10)+a
+        s=g+k
+        return str(s)        
