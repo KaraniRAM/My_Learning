@@ -1,0 +1,41 @@
+1.method 1
+  class Solution(object):
+    def maxArea(self, height):
+        i=0;j=len(height)-1;con=0
+        while i < j:
+            if height[i] < height[j]:
+                g=(j-i)*height[i]
+                if g>con:
+                    con=g     
+            else:
+                g=(j-i)*height[j]
+                if g>con:
+                    con=g
+            if height[i]<height[j]:
+                i+=1
+            else:
+                j-=1
+        return con
+
+  2.method 2
+  class Solution(object):
+    def maxArea(self, height):
+        i=0;j=len(height)-1;con=0
+        while i < j:
+            # if height[i] < height[j]:
+            #     g=(j-i)*height[i]
+            #     if g>con:
+            #         con=g     
+            # else:
+            #     g=(j-i)*height[j]
+            #     if g>con:
+            #         con=g
+            area = (j-i) * min(height[i],height[j])
+            con=max(area,con)
+            if height[i]<height[j]:
+                 i+=1
+            else:
+                 j-=1
+
+        return con
+        
