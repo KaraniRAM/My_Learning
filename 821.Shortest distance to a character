@@ -1,0 +1,29 @@
+class Solution(object):
+    def shortestToChar(self, s, c):
+        g=[]
+        for i in range(len(s)):
+            co=0;co1=0
+            l=r=0
+            for j in range(i,len(s)):
+                if s[j]!=c:
+                    co+=1
+                else:
+                    r=1
+                    break    
+            for k in range(i,-1,-1):
+                if s[k]!=c:
+                    co1+=1
+                else:
+                    l=1
+                    break
+            if not r:
+                co=float('inf')
+            if not l:
+                co1=float('inf')
+            g.append(min(co,co1))
+
+        return g
+
+
+        
+        
