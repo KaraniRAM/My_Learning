@@ -1,0 +1,21 @@
+method 1
+
+class Solution(object):
+    def containsDuplicate(self, nums):
+        nums=sorted(nums);c=0
+        for i in range(len(nums)-1):
+            if nums[i]==nums[i+1]:
+                c+=1
+        if c==0:
+            return False
+        else:return True
+
+method 2
+
+class Solution(object):
+    def containsDuplicate(self, nums):
+        n=set(nums)
+        if len(n)==len(nums):
+            return False
+        else:
+            return True
