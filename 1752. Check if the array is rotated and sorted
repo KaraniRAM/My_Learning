@@ -8,3 +8,11 @@ class Solution(object):
         return False
 
 method 2
+class Solution(object):
+    def check(self, nums):
+        k=sorted(nums)
+        for i in range (len(nums)):
+            g=nums[i:]+nums[:i]
+            if g==k:
+                return True
+        return False
