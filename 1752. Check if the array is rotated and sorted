@@ -16,3 +16,4 @@ class Solution(object):
             if g==k:
                 return True
         return False
+ method 2 is optimal
