@@ -1,3 +1,4 @@
+
 # The isBadVersion API is already defined for you.
 # @param version, an integer
 # @return a bool
@@ -13,3 +14,4 @@ class Solution(object):
             else:
                 l=m+1
         return l
+this is done only by binary search
