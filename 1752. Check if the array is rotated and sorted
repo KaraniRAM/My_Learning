@@ -6,3 +6,5 @@ class Solution(object):
             if g==sorted(g):
                 return True
         return False
+
+method 2
