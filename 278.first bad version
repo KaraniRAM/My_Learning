@@ -15,3 +15,4 @@ class Solution(object):
                 l=m+1
         return l
 this is done only by binary search
+this is optimal
