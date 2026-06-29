@@ -9,3 +9,4 @@ class Solution(object):
             if i != 0:
              k+=' '
         return k
+
