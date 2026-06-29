@@ -17,6 +17,7 @@ class Solution(object):
         return "".join(s)
 
 
+
 2.method 2
 class Solution(object):
     def reverseVowels(self, s):
