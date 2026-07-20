@@ -12,3 +12,4 @@ class Solution(object):
                 c+=1
                 e=points[i][1]
         return c
+         this is method 1
