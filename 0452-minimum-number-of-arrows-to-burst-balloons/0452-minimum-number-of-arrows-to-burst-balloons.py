@@ -5,9 +5,9 @@ class Solution(object):
         :rtype: int
         """
         points.sort(key=lambda x:x[1])
-        c=1
-        e=points[0][1]
-        for i in range(1,len(points)):
+        c=0
+        e=float('-inf')
+        for i in range(len(points)):
             if points[i][0]>e:
                 c+=1
                 e=points[i][1]
