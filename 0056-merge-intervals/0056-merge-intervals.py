@@ -17,7 +17,7 @@ class Solution(object):
                 g.append(r)
                 r=[]
                 r.append(intervals[i][0])
-                e=max(e,intervals[i][1])
+                e=intervals[i][1]
         r.append(e)
         g.append(r)
         return g
