@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/KaraniRAM/My_Learning/tree/master/0056-merge-intervals) |
 | [0322-coin-change](https://github.com/KaraniRAM/My_Learning/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KaraniRAM/My_Learning/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0980-unique-paths-iii](https://github.com/KaraniRAM/My_Learning/tree/master/0980-unique-paths-iii) |
@@ -34,5 +35,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/KaraniRAM/My_Learning/tree/master/0056-merge-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KaraniRAM/My_Learning/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
