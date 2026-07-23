@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/KaraniRAM/My_Learning/tree/master/0986-interval-list-intersections) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/KaraniRAM/My_Learning/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
