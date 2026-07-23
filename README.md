@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KaraniRAM/My_Learning/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/KaraniRAM/My_Learning/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KaraniRAM/My_Learning/tree/master/0057-insert-interval) |
 | [0322-coin-change](https://github.com/KaraniRAM/My_Learning/tree/master/0322-coin-change) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KaraniRAM/My_Learning/tree/master/0054-spiral-matrix) |
 | [0980-unique-paths-iii](https://github.com/KaraniRAM/My_Learning/tree/master/0980-unique-paths-iii) |
 ## Dynamic Programming
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/KaraniRAM/My_Learning/tree/master/0172-factorial-trailing-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/KaraniRAM/My_Learning/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
