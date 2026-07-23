@@ -4,8 +4,7 @@ class Solution(object):
         :type matrix: List[List[int]]
         :rtype: List[int]
         """
-        if not matrix:
-            return []
+       
 
         i = j = 0
         r = len(matrix) - 1
