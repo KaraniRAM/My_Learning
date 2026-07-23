@@ -15,7 +15,7 @@ class Solution(object):
             if l<=r:
                 g.append([l,r])
             
-            if firstList[i][1]<secondList[j][1]:
+            if firstList[i][1]<=secondList[j][1]:
                
                 i+=1
             else:
