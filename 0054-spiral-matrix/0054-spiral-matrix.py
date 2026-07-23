@@ -47,7 +47,5 @@ class Solution(object):
             r -= 1
             c -= 1
 
-            i = n
-            j = n
-
+           
         return g
