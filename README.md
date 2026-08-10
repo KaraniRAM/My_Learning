@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KaraniRAM/My_Learning/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0980-unique-paths-iii](https://github.com/KaraniRAM/My_Learning/tree/master/0980-unique-paths-iii) |
 | [0986-interval-list-intersections](https://github.com/KaraniRAM/My_Learning/tree/master/0986-interval-list-intersections) |
+| [1572-matrix-diagonal-sum](https://github.com/KaraniRAM/My_Learning/tree/master/1572-matrix-diagonal-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KaraniRAM/My_Learning/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KaraniRAM/My_Learning/tree/master/0059-spiral-matrix-ii) |
 | [0980-unique-paths-iii](https://github.com/KaraniRAM/My_Learning/tree/master/0980-unique-paths-iii) |
+| [1572-matrix-diagonal-sum](https://github.com/KaraniRAM/My_Learning/tree/master/1572-matrix-diagonal-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
