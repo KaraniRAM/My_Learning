@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/KaraniRAM/My_Learning/tree/master/0190-reverse-bits) |
 | [0980-unique-paths-iii](https://github.com/KaraniRAM/My_Learning/tree/master/0980-unique-paths-iii) |
 ## Matrix
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/KaraniRAM/My_Learning/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KaraniRAM/My_Learning/tree/master/0059-spiral-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/KaraniRAM/My_Learning/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
