@@ -11,12 +11,12 @@ class Solution(object):
         for j in range(len(s)):
             d[s[j]]=d.get(s[j],0)+1
             maxfre=max(d.values())
-            curr=j-i+1
-            if curr-maxfre>k:
+            currlen=j-i+1
+            if currlen-maxfre>k:
                 d[s[i]]-=1
                 i+=1
-                curr=j-i+1
-            res=max(res,curr)    
+                currlen=j-i+1
+            res=max(res,currlen)    
         return res        
         
         
