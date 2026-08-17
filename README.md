@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KaraniRAM/My_Learning/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KaraniRAM/My_Learning/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/KaraniRAM/My_Learning/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KaraniRAM/My_Learning/tree/master/0057-insert-interval) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KaraniRAM/My_Learning/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KaraniRAM/My_Learning/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KaraniRAM/My_Learning/tree/master/0059-spiral-matrix-ii) |
 | [0980-unique-paths-iii](https://github.com/KaraniRAM/My_Learning/tree/master/0980-unique-paths-iii) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KaraniRAM/My_Learning/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/KaraniRAM/My_Learning/tree/master/0172-factorial-trailing-zeroes) |
 ## Simulation
 |  |
