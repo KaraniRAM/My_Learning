@@ -71,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/KaraniRAM/My_Learning/tree/master/0190-reverse-bits) |
+## Hash Table
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/KaraniRAM/My_Learning/tree/master/0424-longest-repeating-character-replacement) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/KaraniRAM/My_Learning/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/KaraniRAM/My_Learning/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
