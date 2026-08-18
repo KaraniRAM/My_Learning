@@ -9,9 +9,8 @@ class Solution(object):
         
         maxi=0
         while i<j:
-            l=min(height[i],height[j])
-            b=j-i
-            maxi=max(maxi,l*b)
+           
+            maxi=max(maxi,min(height[i],height[j])*(j-i))
             if height[i]<height[j]:
                 i+=1
             else:
