@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KaraniRAM/My_Learning/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/KaraniRAM/My_Learning/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/KaraniRAM/My_Learning/tree/master/0172-factorial-trailing-zeroes) |
 ## Simulation
@@ -94,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/KaraniRAM/My_Learning/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/KaraniRAM/My_Learning/tree/master/0904-fruit-into-baskets) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/KaraniRAM/My_Learning/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/KaraniRAM/My_Learning/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
