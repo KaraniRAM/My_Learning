@@ -1,18 +1,19 @@
 class Solution:
     def checkValidString(self, s: str) -> bool:
-        l=r=0
+        l=0
+        h=0
+
         for ch in s:
             if ch=="(":
                 l+=1
-                r+=1
+                h+=1
             elif ch==")":
-                if l>0:
-                    l-=1
-                r-=1
+                l-=1
+                h-=1
             else:
-                if l>0:
-                    l-=1
-                r+=1
-            if r<0:
+                l-=1
+                h+=1
+            l=max(l,0)
+            if h<0:
                 return False
         return l==0
