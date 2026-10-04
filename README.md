@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaraniRAM/My_Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/KaraniRAM/My_Learning/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/KaraniRAM/My_Learning/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/KaraniRAM/My_Learning/tree/master/0678-valid-parenthesis-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KaraniRAM/My_Learning/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/KaraniRAM/My_Learning/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KaraniRAM/My_Learning/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0678-valid-parenthesis-string](https://github.com/KaraniRAM/My_Learning/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/KaraniRAM/My_Learning/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/KaraniRAM/My_Learning/tree/master/0058-length-of-last-word) |
 | [0424-longest-repeating-character-replacement](https://github.com/KaraniRAM/My_Learning/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/KaraniRAM/My_Learning/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,9 +121,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KaraniRAM/My_Learning/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KaraniRAM/My_Learning/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KaraniRAM/My_Learning/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/KaraniRAM/My_Learning/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KaraniRAM/My_Learning/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KaraniRAM/My_Learning/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/KaraniRAM/My_Learning/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
