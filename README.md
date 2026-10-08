@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KaraniRAM/My_Learning/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/KaraniRAM/My_Learning/tree/master/0301-remove-invalid-parentheses) |
 | [0980-unique-paths-iii](https://github.com/KaraniRAM/My_Learning/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/KaraniRAM/My_Learning/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/KaraniRAM/My_Learning/tree/master/0322-coin-change) |
 ## Greedy
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KaraniRAM/My_Learning/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KaraniRAM/My_Learning/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/KaraniRAM/My_Learning/tree/master/0058-length-of-last-word) |
+| [0301-remove-invalid-parentheses](https://github.com/KaraniRAM/My_Learning/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/KaraniRAM/My_Learning/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/KaraniRAM/My_Learning/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/KaraniRAM/My_Learning/tree/master/0856-score-of-parentheses) |
