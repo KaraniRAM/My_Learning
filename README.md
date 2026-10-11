@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/KaraniRAM/My_Learning/tree/master/0980-unique-paths-iii) |
 | [0986-interval-list-intersections](https://github.com/KaraniRAM/My_Learning/tree/master/0986-interval-list-intersections) |
 | [1572-matrix-diagonal-sum](https://github.com/KaraniRAM/My_Learning/tree/master/1572-matrix-diagonal-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KaraniRAM/My_Learning/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3996-even-number-of-knight-moves](https://github.com/KaraniRAM/My_Learning/tree/master/3996-even-number-of-knight-moves) |
 ## Backtracking
 |  |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/KaraniRAM/My_Learning/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/KaraniRAM/My_Learning/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KaraniRAM/My_Learning/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KaraniRAM/My_Learning/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
