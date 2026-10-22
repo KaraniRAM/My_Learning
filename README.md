@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/KaraniRAM/My_Learning/tree/master/1572-matrix-diagonal-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KaraniRAM/My_Learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KaraniRAM/My_Learning/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/KaraniRAM/My_Learning/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3996-even-number-of-knight-moves](https://github.com/KaraniRAM/My_Learning/tree/master/3996-even-number-of-knight-moves) |
 ## Backtracking
 |  |
