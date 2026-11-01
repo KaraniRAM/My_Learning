@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/KaraniRAM/My_Learning/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/KaraniRAM/My_Learning/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KaraniRAM/My_Learning/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/KaraniRAM/My_Learning/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0904-fruit-into-baskets](https://github.com/KaraniRAM/My_Learning/tree/master/0904-fruit-into-baskets) |
 | [0980-unique-paths-iii](https://github.com/KaraniRAM/My_Learning/tree/master/0980-unique-paths-iii) |
 | [0986-interval-list-intersections](https://github.com/KaraniRAM/My_Learning/tree/master/0986-interval-list-intersections) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KaraniRAM/My_Learning/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/KaraniRAM/My_Learning/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/KaraniRAM/My_Learning/tree/master/0172-factorial-trailing-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/KaraniRAM/My_Learning/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3996-even-number-of-knight-moves](https://github.com/KaraniRAM/My_Learning/tree/master/3996-even-number-of-knight-moves) |
 ## Simulation
 |  |
