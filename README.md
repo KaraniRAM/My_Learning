@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/KaraniRAM/My_Learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KaraniRAM/My_Learning/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KaraniRAM/My_Learning/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/KaraniRAM/My_Learning/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/KaraniRAM/My_Learning/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3996-even-number-of-knight-moves](https://github.com/KaraniRAM/My_Learning/tree/master/3996-even-number-of-knight-moves) |
 ## Backtracking
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/KaraniRAM/My_Learning/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/KaraniRAM/My_Learning/tree/master/0904-fruit-into-baskets) |
+| [3934-smallest-unique-subarray](https://github.com/KaraniRAM/My_Learning/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -169,8 +171,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KaraniRAM/My_Learning/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KaraniRAM/My_Learning/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3934-smallest-unique-subarray](https://github.com/KaraniRAM/My_Learning/tree/master/3934-smallest-unique-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KaraniRAM/My_Learning/tree/master/2333-minimum-sum-of-squared-difference) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/KaraniRAM/My_Learning/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/KaraniRAM/My_Learning/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/KaraniRAM/My_Learning/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
