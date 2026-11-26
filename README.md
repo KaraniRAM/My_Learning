@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KaraniRAM/My_Learning/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KaraniRAM/My_Learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/KaraniRAM/My_Learning/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KaraniRAM/My_Learning/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/KaraniRAM/My_Learning/tree/master/0056-merge-intervals) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KaraniRAM/My_Learning/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KaraniRAM/My_Learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/KaraniRAM/My_Learning/tree/master/0986-interval-list-intersections) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KaraniRAM/My_Learning/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sweep Line
