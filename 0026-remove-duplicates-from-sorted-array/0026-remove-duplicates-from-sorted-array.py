@@ -4,6 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        if not nums:
+            return 0
         k=1
         for i in range(len(nums)):
             if nums[i]!=nums[k-1]:
