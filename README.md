@@ -102,12 +102,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/KaraniRAM/My_Learning/tree/master/0172-factorial-trailing-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KaraniRAM/My_Learning/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KaraniRAM/My_Learning/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3360-stone-removal-game](https://github.com/KaraniRAM/My_Learning/tree/master/3360-stone-removal-game) |
 | [3996-even-number-of-knight-moves](https://github.com/KaraniRAM/My_Learning/tree/master/3996-even-number-of-knight-moves) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KaraniRAM/My_Learning/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KaraniRAM/My_Learning/tree/master/0059-spiral-matrix-ii) |
+| [3360-stone-removal-game](https://github.com/KaraniRAM/My_Learning/tree/master/3360-stone-removal-game) |
 ## Divide and Conquer
 |  |
 | ------- |
