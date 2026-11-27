@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/KaraniRAM/My_Learning/tree/master/0904-fruit-into-baskets) |
 | [0980-unique-paths-iii](https://github.com/KaraniRAM/My_Learning/tree/master/0980-unique-paths-iii) |
 | [0986-interval-list-intersections](https://github.com/KaraniRAM/My_Learning/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/KaraniRAM/My_Learning/tree/master/0994-rotting-oranges) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KaraniRAM/My_Learning/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1572-matrix-diagonal-sum](https://github.com/KaraniRAM/My_Learning/tree/master/1572-matrix-diagonal-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KaraniRAM/My_Learning/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/KaraniRAM/My_Learning/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/KaraniRAM/My_Learning/tree/master/0074-search-a-2d-matrix) |
 | [0980-unique-paths-iii](https://github.com/KaraniRAM/My_Learning/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/KaraniRAM/My_Learning/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/KaraniRAM/My_Learning/tree/master/1572-matrix-diagonal-sum) |
 ## Dynamic Programming
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/KaraniRAM/My_Learning/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/KaraniRAM/My_Learning/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/KaraniRAM/My_Learning/tree/master/0994-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |
