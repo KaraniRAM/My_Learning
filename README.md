@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KaraniRAM/My_Learning/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KaraniRAM/My_Learning/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/KaraniRAM/My_Learning/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/KaraniRAM/My_Learning/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/KaraniRAM/My_Learning/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KaraniRAM/My_Learning/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaraniRAM/My_Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KaraniRAM/My_Learning/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KaraniRAM/My_Learning/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KaraniRAM/My_Learning/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/KaraniRAM/My_Learning/tree/master/0074-search-a-2d-matrix) |
 | [0980-unique-paths-iii](https://github.com/KaraniRAM/My_Learning/tree/master/0980-unique-paths-iii) |
 | [1572-matrix-diagonal-sum](https://github.com/KaraniRAM/My_Learning/tree/master/1572-matrix-diagonal-sum) |
 ## Dynamic Programming
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/KaraniRAM/My_Learning/tree/master/0074-search-a-2d-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KaraniRAM/My_Learning/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KaraniRAM/My_Learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3934-smallest-unique-subarray](https://github.com/KaraniRAM/My_Learning/tree/master/3934-smallest-unique-subarray) |
