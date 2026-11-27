@@ -5,7 +5,7 @@ class Solution(object):
         :type target: int
         :rtype: bool
         """
-        f=False
+        #f=False
         ro=len(matrix)
         co=len(matrix[0])
         l=0
@@ -15,11 +15,13 @@ class Solution(object):
             rr=mid//co
             cc=mid%co
             if matrix[rr][cc]==target:
-                f=True
-                break
+                #f=True
+                #break
+                return True
             elif matrix[rr][cc]<target:
                 l=mid+1
             else:
                 r=mid-1
         
-        return f
+        #return f
+        return False
