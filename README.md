@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KaraniRAM/My_Learning/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KaraniRAM/My_Learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KaraniRAM/My_Learning/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaraniRAM/My_Learning/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0986-interval-list-intersections](https://github.com/KaraniRAM/My_Learning/tree/master/0986-interval-list-intersections) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KaraniRAM/My_Learning/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sweep Line
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/KaraniRAM/My_Learning/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KaraniRAM/My_Learning/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaraniRAM/My_Learning/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/KaraniRAM/My_Learning/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/KaraniRAM/My_Learning/tree/master/0058-length-of-last-word) |
 | [0301-remove-invalid-parentheses](https://github.com/KaraniRAM/My_Learning/tree/master/0301-remove-invalid-parentheses) |
@@ -199,4 +201,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/KaraniRAM/My_Learning/tree/master/3934-smallest-unique-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaraniRAM/My_Learning/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaraniRAM/My_Learning/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaraniRAM/My_Learning/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaraniRAM/My_Learning/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
